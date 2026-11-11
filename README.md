@@ -45,13 +45,11 @@ I'm a Computer Science student passionate about Artificial Intelligence, Machine
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
