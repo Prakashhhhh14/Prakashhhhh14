@@ -58,17 +58,7 @@ I'm a Computer Science student passionate about Artificial Intelligence, Machine
 
 ## 💡 FEATURED PROJECTS
 
-### 🚌 Smart Bus – AI-Enabled Contactless Transit
 
-An intelligent public transportation concept combining AI, contactless payments, GPS tracking and passenger analytics.
-
-**Technologies:** AI, GPS, Cloud, Data Analytics.
-
-### 🤖 KNN Classification using Scikit-learn
-
-A Machine Learning classification project using the Iris dataset and K-Nearest Neighbors algorithm.
-
-**Technologies:** Python, NumPy, Pandas, Scikit-learn.
 
 ---
 
