@@ -53,7 +53,7 @@ I'm a Computer Science student passionate about Artificial Intelligence, Machine
 ---
 
 ## 💡 FEATURED PROJECTS
- Digital Twin for Smart Cities
+🚀 Building NEXUS CITY | AI & ML Enthusiast | Exploring IoT, 3D Digital Twins & Smart City Technologies | Turning Ideas into Innovation 🌆
 
 
 ---
