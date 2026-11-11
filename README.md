@@ -53,7 +53,7 @@ I'm a Computer Science student passionate about Artificial Intelligence, Machine
 ---
 
 ## 💡 FEATURED PROJECTS
-
+ Digital Twin for Smart Cities
 
 
 ---
