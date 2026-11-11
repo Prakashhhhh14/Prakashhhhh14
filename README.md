@@ -5,8 +5,6 @@
 
 # 👋 HI, I'M PRAKASH
 
-### KONDAPALLY PRAKASH
-
 **AI & MACHINE LEARNING ENTHUSIAST | COMPUTER SCIENCE STUDENT**
 
 Building intelligent solutions through code, creativity and innovation.
